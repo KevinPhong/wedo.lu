@@ -428,6 +428,8 @@ function blog_ajax_posts_init() {
 
 function p_vdump($a) {
 	echo "<pre>";
+	echo "<pre>";
 		var_dump($a);
+	echo "</pre>";
 	echo "</pre>";
 }
